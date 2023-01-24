@@ -1,8 +1,86 @@
-# Getting Started with Create React App and Redux
+<a name="readme-top"></a>
+
+<div align="center">
+  <br/>
+  <h3><b>Hello React - FrontEnd</b></h3>
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+# 📖 Hello React - Frontend <a name="about-project"></a>
+
+> This project is intended to set-up and initialize a React project as a frontend service
+
+**Hello React - Frontend** is the initializing base blueprint project for building apps React as a frontend service
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> This Web App was built using React, using Gitflow and customized Linters
+
+<details>
+<summary>Framework</summary>
+  <ul>
+    <li><a href="https://github.com/facebook/create-react-app">React</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Manager</summary>
+  <ul>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Toolkit</summary>
+  <ul>
+    <li><a href="https://redux-toolkit.js.org/">Redux-toolkit</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **React** for building the frontend framework
+- **Redux** as a building interface
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+### Clone the repository
+
+```shell
+git clone https://github.com/mullenlucas/hello-react-front-end.git
+cd hello-react-front-end
+```
+
+### Install
 
 In the project directory, you can run:
 
@@ -29,18 +107,48 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Lucas Mullen**
+
+- GitHub: [@mullenlucas](https://github.com/mullenlucas)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-mullen-447312119/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- To all the collaborators for the Readme Template
+- The Microverse Team
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
